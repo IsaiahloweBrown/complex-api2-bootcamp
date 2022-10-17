@@ -1,7 +1,7 @@
 # 📊 Project: Complex API 2
 
 ![image](https://user-images.githubusercontent.com/112201564/196260617-bae48a57-1506-4cd6-b58d-9976a7528ff0.png)
-
+### Tech used: Vanilla JS, HTML CSS
 ### Goal: Use data returned from one api to make a request to another api and display the data returned
 
 ### How to submit your code for review:
